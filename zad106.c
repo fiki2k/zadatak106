@@ -1,5 +1,5 @@
 //Program treba naci i ispisat parne elemente matrice. 
-
+#include<stdio.h>
 int main()
 
 {
